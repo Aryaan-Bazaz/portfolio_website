@@ -1160,3 +1160,10 @@ span {
         font-size: 2rem;
     }
 }
+
+@media (max-width: 768px) {
+    .home {
+        padding-top: 8rem; /* more top space on small screens */
+    }
+}
+
